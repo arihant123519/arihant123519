@@ -32,3 +32,11 @@ I'm a Full Stack Developer with 4+ years of hands-on experience across a diverse
 
 
 ---
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+<p align="center">
+<img src="https://github.com/arihant123519/arihant123519/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
