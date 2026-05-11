@@ -1,9 +1,8 @@
 # Hey, I'm Arihant Aswal 👋
 
-**Full Stack Web Developer** · Building seamless digital experiences from Gurugram, India 🇮🇳
+**Full Stack Developer & Automation Engineer** · Building seamless digital experiences from Gurugram, India
 
 [![Email](https://img.shields.io/badge/arihantaswal123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arihantaswal123@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%207453949966-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+917453949966)
 
 
 ---
