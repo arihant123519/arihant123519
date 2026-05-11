@@ -3,6 +3,7 @@
 **Full Stack Developer & Automation Engineer** · Building seamless digital experiences from Gurugram, India
 
 [![Email](https://img.shields.io/badge/arihantaswal123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arihantaswal123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Arihant%20Aswal-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arihant-aswal-3029871a7)
 
 ---
 
