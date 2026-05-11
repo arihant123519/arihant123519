@@ -31,12 +31,4 @@ I'm a Full Stack Developer with 4+ years of hands-on experience across a diverse
 ![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-
-![Arihant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arihantaswal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arihantaswal&layout=compact&theme=tokyonight&hide_border=true)
-
-
 ---
