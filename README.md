@@ -70,7 +70,7 @@ I'm a **Full Stack Developer** with **4+ years** of hands-on experience across a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arihant123519&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=ff6b35&icon_color=ff6b35" alt="github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arihant123519&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&title_color=ff6b35&icon_color=ff6b35" alt="github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arihant123519&layout=compact&theme=tokyonight&hide_border=true&title_color=ff6b35&langs_count=8" alt="top langs" />
 </p>
 
