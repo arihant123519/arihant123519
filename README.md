@@ -8,7 +8,7 @@
 
 <!-- ===================== HEADER (animated typing) ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=600&lines=Hey%2C+Arihant+Aswal+this+side+%F0%9F%91%8B;Full+Stack+/+Saas+Developer;Building+seamless+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=600&lines=Hey%2C+Arihant+Aswal+this+side+%F0%9F%91%8B;Full+Stack+/+Saas+Developer;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
