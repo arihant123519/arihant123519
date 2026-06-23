@@ -80,14 +80,6 @@ I'm a **Full Stack Developer** with **4+ years** of hands-on experience across a
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arihant123519&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
